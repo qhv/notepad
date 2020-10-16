@@ -1,0 +1,3 @@
+Notepad
+=======
+Simple console notepad
